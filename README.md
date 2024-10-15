@@ -56,8 +56,8 @@ The training script performs the following steps:
 ## Result:
 The model is able to generate captions that describe the content of images. Here are a few examples of the captions generated after training the model:
 
-Image 1: "A group of people are standing in a field."
-Image 2: "A dog is playing with a ball in the grass."
+Image 1: "A group of people are standing in a field."  
+Image 2: "A dog is playing with a ball in the grass."  
 Although the model achieves reasonable results, performance can be improved with further fine-tuning, using larger datasets, or incorporating advanced techniques such as attention mechanisms.
 
 ## Potential Improvements:
