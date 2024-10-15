@@ -63,10 +63,10 @@ Although the model achieves reasonable results, performance can be improved with
 ## Potential Improvements:
 Here are a few areas for future work and improvement:
 
-1.Learning Rate Tuning: The learning rate is set very low for this model. A slightly higher 2.learning rate may speed up convergence without sacrificing performance.
-3.Data Augmentation: Applying data augmentation techniques to the images could help the model generalize better.
-4.Attention Mechanism: Implementing an attention mechanism would allow the model to focus on specific regions of the image when generating captions, potentially improving caption quality.
-5.Beam Search: Using beam search instead of greedy search for caption generation can produce more accurate and diverse captions.
+1.Learning Rate Tuning: The learning rate is set very low for this model. A slightly higher learning rate may speed up convergence without sacrificing performance.
+2.Data Augmentation: Applying data augmentation techniques to the images could help the model generalize better.
+3.Attention Mechanism: Implementing an attention mechanism would allow the model to focus on specific regions of the image when generating captions, potentially improving caption quality.
+4.Beam Search: Using beam search instead of greedy search for caption generation can produce more accurate and diverse captions.
 
 ### Acknowledgments:
 Flickr 8k Dataset: Thanks to the Flickr community for providing the dataset.
