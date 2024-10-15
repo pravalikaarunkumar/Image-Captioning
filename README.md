@@ -71,3 +71,6 @@ Here are a few areas for future work and improvement:
 ### Acknowledgments:
 Flickr 8k Dataset: Thanks to the Flickr community for providing the dataset.
 DenseNet and LSTM: The model architecture is based on research in image captioning using deep learning techniques.
+
+## Contributors:  
+[Pravalika Arunkumar](https://github.com/pravalikaarunkumar)
